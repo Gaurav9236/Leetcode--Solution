@@ -1,4 +1,4 @@
-// Last updated: 19/08/2026, 18:24:25
+// Last updated: 19/08/2026, 18:35:41
 1class Solution {
 2public:
 3    int gcdOfOddEvenSums(int n) {
