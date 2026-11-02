@@ -1,4 +1,4 @@
-// Last updated: 30/09/2026, 09:35:43
+// Last updated: 02/11/2026, 18:29:13
 1class Solution {
 2public:
 3    int minMoves2(vector<int>& nums) {
